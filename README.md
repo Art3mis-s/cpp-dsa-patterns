@@ -23,11 +23,11 @@ This repository contains my structured practice for Data Structures and Algorith
 
 ## 📂 Structure
 Problems are organized by pattern:
-# Each solution includes:
-- Problem name and number
-- Pattern used
-- Key idea
-- Time complexity
-- Space complexity
+  Each solution includes:
+  - Problem name and number
+  - Pattern used
+  - Key idea
+  - Time complexity
+  - Space complexity
 
 
