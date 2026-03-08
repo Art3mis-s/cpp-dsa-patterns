@@ -1,5 +1,5 @@
 /*
-LeetCode 1 - Two Sum
+LeetCode 01 - Two Sum
 Pattern: Arrays & Hashing
 
 Idea:
