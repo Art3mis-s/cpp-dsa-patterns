@@ -10,7 +10,7 @@ element exists in the lookup set.
 If it does, insert it into a result set to ensure the output
 contains only unique elements.
 
-Finally convert the result set into a vector and return it.
+Finally, convert the result set into a vector and return it.
 
 Time Complexity: O(n + m)
 - n = size of nums1
