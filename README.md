@@ -22,7 +22,7 @@ This repository contains my structured practice for Data Structures and Algorith
 - Dynamic Programming
 
 ## 📂 Structure
-Problems are organized by pattern:
+*Problems are organized by pattern:*
   Each solution includes:
   - Problem name and number
   - Pattern used
