@@ -36,11 +36,10 @@ public:
     int arrayPairSum(vector<int>& nums) {
         // Step 1: sort the array
         sort(nums.begin(), nums.end());
-
+       
         int maxNum = 0;
 
         // Step 2: add every element at even index
-        // because it represents the smaller value in each pair
         for (int i = 0; i < nums.size(); i += 2)
         {
             maxNum += nums[i];
