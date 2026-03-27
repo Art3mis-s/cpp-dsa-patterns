@@ -44,7 +44,7 @@ public:
             {
                 right--;
             }
-            else 
+            else
             {
                 // Compare characters ignoring case
                 if (tolower(s[left]) != tolower(s[right]))
